@@ -2,7 +2,8 @@
 
 Template which I followed for asking referrals to people on LinkedIn .
 <strong>
-- "Hi { name of the person }
+-
+  "Hi { name of the person }
 
 Hope you are doing well .
 Recently I came across an opening in { company name } for { role } for { year of graduation } grads .
@@ -26,6 +27,7 @@ I have attached my resume for the same .
 Hope to hear from you soon.
 
 Thanks
+- 
 </strong>
 
 Would love if someone could add more pointers to this .
