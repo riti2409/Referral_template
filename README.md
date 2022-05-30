@@ -27,7 +27,7 @@ I have attached my resume for the same .
 Hope to hear from you soon.
 
 Thanks
-- 
+
 </strong>
 
 Would love if someone could add more pointers to this .
