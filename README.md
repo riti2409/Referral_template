@@ -10,7 +10,7 @@ Recently I came across an opening in { company name } for { role } for { year of
 
 The job id for the same is { job id } .
 
-It would be great if you could provide me a referral for the same .
+It would be great if you could provide me with a referral for the same .
 
 Why me?
 
